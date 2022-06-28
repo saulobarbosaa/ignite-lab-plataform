@@ -4,11 +4,17 @@ Projeto desenvolvido com base nas aulas do evento online "Ignite Lab" da empresa
 
 ## Linguagens e Ferramentas Utilizadas
 
-ReactJS
+ReactJS 
+
 GraphQL 
+
 TypeScript
+
 Apollo Client (GraphQL)
+
 GraphCMS
+
+Figma
 
 ## Funcionalidades Desenvolvidas
 
